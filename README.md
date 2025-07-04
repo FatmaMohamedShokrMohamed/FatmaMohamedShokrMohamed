@@ -4,12 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<summary><strong> 🎧 Currently learning and coding to:</strong></summary>
-<br>
-<!-- Optional Spotify widget — skip if you don’t use Spotify -->
-<!-- [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) -->
-Learning while vibing to lo-fi 🎶
-</details>
+
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=orange&label=PROFILE+VIEWS)
 
