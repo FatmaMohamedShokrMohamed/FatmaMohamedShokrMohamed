@@ -1,22 +1,51 @@
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
-<!-- You can design your own header image using Canva: https://www.canva.com/join/celeriac-tread-jellyfish -->
+<div align="center" width="50">
 
-## 👋 Hi there!
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-I'm a *Computer Science student* with a growing passion for *Cybersecurity* and *Software Development*. I enjoy learning new technologies, building small projects, and exploring practical applications of what I study.
+<details>
+<summary><strong> 🎧 Currently learning and coding to:</strong></summary>
+<br>
+<!-- Optional Spotify widget — skip if you don’t use Spotify -->
+<!-- [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) -->
+Learning while vibing to lo-fi 🎶
+</details>
+
+![Totals Hits](https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=orange&label=PROFILE+VIEWS)
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/fatma-shokr-86b524338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:fatmashoker4@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 Currently Learning
+## 👩‍💻 About Me
 
-- *C++* — Programming fundamentals and data structures.
-- *Python* — Small projects and problem solving.
-- Basics of *Linux, **VS Code, and version control with **Git/GitHub*.
+🎓 I'm a *Computer Science student* passionate about *Cybersecurity* and *Software Development*.
+
+🧠 Always curious to learn, build, and improve my coding and problem-solving skills.
+
+🌱 Currently learning *C++* and *Python*, and applying what I learn in small projects and university assignments.
 
 ---
 
-## 🎯 My Goals
+## 💻 Tools & Tech I Use (and learning)
 
-- Sharpen my technical skills through hands-on projects and challenges.
-- Learn more about real-world applications in Cybersecurity.
-- Connect with professionals and contribute to open-source projects
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+
+
+---
+
+```python
+# simple intro
+class Me:
+    def _init_(self):
+        self.name = "Fatma mohamed shokr mohamed"
+        self.major = "Computer Science"
+        self.interests = ["Cybersecurity", "Software Development"]
+        self.learning = ["C++", "Python"]
+
+    def goal(self):
+        return "To grow as a developer and explore the world of cybersecurity"
