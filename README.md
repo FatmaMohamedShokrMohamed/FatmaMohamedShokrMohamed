@@ -33,18 +33,7 @@
 
 ---
 
-```python
-# simple intro
-class Me:
-    def _init_(self):
-        self.name = "Fatma mohamed shokr mohamed"
-        self.major = "Computer Science"
-        self.interests = ["Cybersecurity", "Software Development"]
-        self.learning = ["C++", "Python"]
-
-    def goal(self):
-        return "To grow as a developer and explore the world of cybersecurity"
-
+<br>
 
 <div align="center" >
 <a  href="https://github.com/SP-XD">
@@ -77,4 +66,15 @@ class Me:
 
 </div>
 
+```python
+# simple intro
+class Me:
+    def _init_(self):
+        self.name = "Fatma"
+        self.major = "Computer Science"
+        self.interests = ["Cybersecurity", "Software Development"]
+        self.learning = ["C++", "Python", "Git", "Linux"]
+
+    def goal(self):
+        return "To grow as a developer and explore the world of cybersecurity"
 
