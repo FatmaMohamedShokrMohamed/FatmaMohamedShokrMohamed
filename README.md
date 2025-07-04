@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<details>
+
 
 <h1> =>Fatma Mohamed Shokr Mohamed</h1>
 
