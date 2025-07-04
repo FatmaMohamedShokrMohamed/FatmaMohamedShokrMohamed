@@ -6,7 +6,7 @@
 
 <h1> => Fatma Mohamed Shokr Mohamed <=</h1>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=FatmaMohamedShokrMohamed&style=flat&color=orange&label=PROFILE+VIEWS)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/fatma-shokr-86b524338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:fatmashoker4@gmail.com)
@@ -36,18 +36,18 @@
 <br>
 
 <div align="center" >
-<a  href="https://github.com/SP-XD">
+<a  href="https://github.com/FatmaMohamedShokrMohamed">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/FatmaMohamedShokrMohamed/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/FatmaMohamedShokrMohamed/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/FatmaMohamedShokrMohamed/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
 
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+<img align="center" src="https://raw.githubusercontent.com/FatmaMohamedShokrMohamed/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
 </details>
   
@@ -62,7 +62,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+<!--img src="https://github.com/FatmaMohamedShokrMohamed/FatmaMohamedShokrMohamed/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
 
 </div>
 
