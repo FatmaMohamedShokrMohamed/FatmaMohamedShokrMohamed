@@ -1,16 +1,22 @@
-## Hi there 👋
+![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
+<!-- You can design your own header image using Canva: https://www.canva.com/join/celeriac-tread-jellyfish -->
 
-<!--
-**FatmaMohamedShokrMohamed/FatmaMohamedShokrMohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there!
 
-Here are some ideas to get you started:
+I'm a *Computer Science student* with a growing passion for *Cybersecurity* and *Software Development*. I enjoy learning new technologies, building small projects, and exploring practical applications of what I study.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+
+- *C++* — Programming fundamentals and data structures.
+- *Python* — Small projects and problem solving.
+- Basics of *Linux, **VS Code, and version control with **Git/GitHub*.
+
+---
+
+## 🎯 My Goals
+
+- Sharpen my technical skills through hands-on projects and challenges.
+- Learn more about real-world applications in Cybersecurity.
+- Connect with professionals and contribute to open-source projects
